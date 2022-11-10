@@ -10,3 +10,13 @@
 6. Операторы в джава. +, -, /, *, %, >, <, !=, >>, <<, x++/ ++x, x--/ --x, оператор+=, приоритет операций
 7. Форматирование кода
 8. Что такое git. Git commit, fetch+merge, pull, push
+
+//////////////////////////
+/////// Lecture 2  ///////
+//////////////////////////
+
+1. if-else, if-else-if, ternary
+2. Switch / Switch Java 17
+3. for
+4. while, do-while
+5. continue, break, return
