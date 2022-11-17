@@ -36,3 +36,12 @@
 
 Info:
 https://javarush.ru/groups/posts/1997-algoritmih-sortirovki-v-teorii-i-na-praktike
+
+//////////////////////////
+/////// Lecture 4  ///////
+//////////////////////////
+
+1. Понятие класса, объекта, конструктора, this для конструктора
+2. Инициализация полей (примитивы, объекты, static поля, final поля)
+3. Блоки инициализации (static / nonstatic)
+4. toString()
