@@ -45,3 +45,13 @@ https://javarush.ru/groups/posts/1997-algoritmih-sortirovki-v-teorii-i-na-prakti
 2. Инициализация полей (примитивы, объекты, static поля, final поля)
 3. Блоки инициализации (static / nonstatic)
 4. toString()
+
+//////////////////////////
+/////// Lecture 5  ///////
+//////////////////////////
+
+1. Методы класса - static / nonstatic
+2. Модификаторы доступа, getters/setters
+3. Equals, hashcode
+4. Порядок расположения полей, конструкторов и методов в классе
+5. Records - Java 17
