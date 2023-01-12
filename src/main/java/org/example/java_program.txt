@@ -126,3 +126,17 @@ PhantomReference - используется для планирования по
 4. throw, throws (исключения в интерфейсах и наследниках)
 5. Переменные за пределами блока try-catch-finally
 6. Выполнение кода при исключениях (дебаг)
+
+
+//////////////////////////
+/////// Lecture 13 ///////
+//////////////////////////
+
+1. Потоки ввода-вывода
+2. Чтение и запись файлов. FileInputStream и FileOutputStream
+3. Закрытие потоков
+4. Классы ByteArrayInputStream и ByteArrayOutputStream
+6. Классы DataOutputStream и DataInputStream
+7. Чтение и запись текстовых файлов (FileReader, FileWriter)
+8. Буферизация символьных потоков. BufferedReader и BufferedWriter
+10. Класс File. Работа с файлами и каталогами. Files.readString(), Files.writeString()
