@@ -182,3 +182,15 @@ Info:
 - hasNext
 - next
 - remove
+
+//////////////////////////
+/////// Lecture 16  //////
+//////////////////////////
+
+1. Comparable, Comparator
+На примере магазина
+- thenComparing
+- reversed
+
+2. Wildcard
+https://habr.com/ru/post/559268/
