@@ -13,3 +13,7 @@ Task 3
 - сгруппированные по типу фрукты отсортировать по названию
 
 Т.е. на выходе у вас должна получиться, например, Map<String, FruitStatistic>
+
+Task 4
+Test:
+https://forms.gle/g9es2hzW6ohCm65P9
