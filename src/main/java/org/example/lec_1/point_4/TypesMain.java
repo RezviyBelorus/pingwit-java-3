@@ -2,7 +2,7 @@ package org.example.lec_1.point_4;
 
 public class TypesMain {
     public static void main(String[] args) {
-
+// test
         /*
         целочисленнве типы
         byte 2^8 -> 256 -> -128 +127
